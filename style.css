@@ -1,0 +1,36 @@
+body
+{
+	background: lightpink;
+}
+
+.login_div1 , .login_div2
+{
+	background: rgb(231, 95, 95);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word
+{
+	width: 60%;
+}
+
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+
+
+#button1
+{
+	background: rgba(255, 179, 0, 0.295);
+}
+
